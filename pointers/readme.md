@@ -64,3 +64,5 @@
     ```
 
 4. the value of `x (1.5)` after running the program is square `x (2.25)` because the function square multiply `x` with itself, and store the result back at the memory location pointed to by `x`.
+
+5. Check `program.go` file
