@@ -1,3 +1,3 @@
-module example.com/m/v2
+module cyfplusprep
 
 go 1.22.1
